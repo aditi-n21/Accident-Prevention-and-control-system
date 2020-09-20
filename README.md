@@ -1,5 +1,5 @@
 # Accident-Prevention-and-control-system
-<img src ="https://duino4projects.com/wp-content/uploads/2017/05/smart-vehicle.png">
+<img src ="https://hackster.imgix.net/uploads/attachments/263748/zone_2_Kz8mRX0foo.JPG?auto=compress%2Cformat&w=680&h=510&fit=max">
 
 - The objective of the system is to avoid accident by giving indication through buzzer. 
 - Accidents are very common therefore it is necessary to develop a system to avoid accidents. 
